@@ -1,0 +1,18 @@
+.cards{
+    width:47%;
+    height: 47%;
+    border: 1px solid;
+    border-color: blue;
+    position: absolute;
+    top:175px;
+    left:30%;
+}
+.child{
+  width:30%;
+  height: 40%;
+  border: 1px solid;
+  border-color: blue;
+  margin:10px;
+  margin-top: 25px;
+  display:inline-block;
+}
